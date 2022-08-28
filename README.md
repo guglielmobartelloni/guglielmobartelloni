@@ -1,9 +1,12 @@
 <h1>Guglielmo Bartelloni</h1>
   
-I'm a Developer currently studying Computer Science at the University of Florence.
 
 <p align="center">
+
+I'm a Developer currently studying Computer Science at the University of Florence.
+
  <a href="https://s.tcno.co/AccSwitcherDiscord"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Discord"></a>
+
 </p>
 
 <h3 align="center">Languages I've worked with</h3>

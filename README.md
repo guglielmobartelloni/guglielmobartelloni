@@ -16,3 +16,8 @@ I'm a Developer currently studying Computer Science at the University of Florenc
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
 
 </p>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/guglielmobartelloni/count.svg" />
+</p>

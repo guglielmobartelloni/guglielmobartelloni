@@ -2,10 +2,6 @@
   
 I'm a Developer currently studying Computer Science at the University of Florence.
 
-<p align="center">
- <a href="https://s.tcno.co/AccSwitcherDiscord"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Discord"></a>
-</p>
-
 <h3 align="center">Tech I've worked with</h3>
 <p align="center">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">

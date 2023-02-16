@@ -1,6 +1,10 @@
+<p align="center">
 <h1>Guglielmo Bartelloni</h1>
+</p>
   
+<p align="center">
 I'm a Developer currently studying Computer Science at the University of Florence.
+</p>
 
 <h3 align="center">Tech I've worked with</h3>
 <p align="center">

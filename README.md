@@ -3,7 +3,7 @@
 </p>
   
 <p align="center">
-I'm a Developer currently studying Computer Science at the University of Florence.
+I'm a Developer and Computer Science graduate at the University of Florence.
 </p>
 
 <h3 align="center">Tech I've worked with</h3>

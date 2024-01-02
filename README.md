@@ -3,7 +3,7 @@
 </p>
   
 <p align="center">
-I'm a Software Engineer and Computer Science graduate at the University of Florence. Currently workig at Intesa SanPaolo.
+I'm a Software Engineer and Computer Science graduate at the University of Florence. Currently working at Intesa SanPaolo.
 </p>
 
 <h3 align="center">Tech I've worked with</h3>

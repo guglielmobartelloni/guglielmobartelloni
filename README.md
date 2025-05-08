@@ -24,4 +24,20 @@ I'm a computer geek with a degree in Computer Science, mostly working as a backe
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
 <br />
 
+---
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/guglielmobartelloni/guglielmobartelloni/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/guglielmobartelloni/guglielmobartelloni/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/guglielmobartelloni/guglielmobartelloni/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 

@@ -26,6 +26,8 @@ I'm a computer geek with a degree in Computer Science, mostly working as a backe
 
 ---
 
+### 🐍 My Contributions
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"

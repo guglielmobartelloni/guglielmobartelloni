@@ -43,3 +43,5 @@ I'm a computer geek with a degree in Computer Science, mostly working as a backe
   />
 </picture>
 
+
+![Guglielmo Bartelloni's stats](https://github-readme-stats.vercel.app/api?username=guglielmobartelloni&show_icons=true&theme=radical)

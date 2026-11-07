@@ -27,4 +27,4 @@ I'm also a member of the [Italian Linux Society](https://www.ils.org/).
 
 Outside of software, I practice martial arts, play drums, compose music, and dance.
 
-[Website](https://bartelloni.it)
+[Personal website](https://bartelloni.it)
